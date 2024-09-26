@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Top News</string>
+    <string name="article_mark">Guardados</string>
+    <string name="popular_news">Popular</string>
+    <string name="banner_error">Algo salió mal, inténtalo de nuevo</string>
+    <string name="news_error_try_connect">Volver a intentar</string>
+
+    <string name="mark_empty_title">No hay artículos guardados</string>
+    <string name="mark_empty_description">Añade artículos para que aparezcan aquí</string>
+
+    <string name="search_article_label">Buscar artículos por palabra…</string>
+    <string name="dialog_date_picker_title">Obtener artículos a partir de:</string>
+
+    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_btn_cancel">CANCELAR</string>
+    <string name="message_select_date_before">Selecciona una fecha antes de la actual</string>
+
+    <string name="share_article_title">Compartir artículo</string>
+
+</resources>
